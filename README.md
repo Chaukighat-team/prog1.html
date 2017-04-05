@@ -3,5 +3,5 @@
 <input type="text" name="ex2">
 <input type="text" name="ex3">
 <input type="text" name="ex5">
-<input type="submit">. 
+<input type="submit">
 </form>
