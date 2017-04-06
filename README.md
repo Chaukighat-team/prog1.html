@@ -5,13 +5,4 @@
 <input type="text" name="ex5">
 <input type="submit">
 </form>
-<iframe onload="window.parent.parent.scrollTo(0,0)"><h1>rajud</h1>
-<h1>rajud</h1>
-<h1>rajud</h1>
-<h1>rajud</h1>
-<h1>rajud</h1>
-<h1>rajud</h1>
-<h1>rajud</h1>
-<h1>rajud</h1>
-<h1>rajud</h1>
-<h1>rajud</h1></iframe>
+<iframe src="https://github.com/Chaukighat-team/prog1.html/edit/master/README.md" onload="window.parent.parent.scrollTo(0,0)"></iframe>
