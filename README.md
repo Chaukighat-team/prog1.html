@@ -5,4 +5,4 @@
 <input type="text" name="ex5">
 <input type="submit">
 </form>
-<iframe src="https://github.com/Chaukighat-team/prog1.html/edit/master/README.md" onload="window.parent.parent.scrollTo(0,0)"></iframe>
+<iframe src="https://github.com/Chaukighat-team/prog1.html/" onload="window.parent.parent.scrollTo(0,0)"></iframe>
